@@ -20,7 +20,7 @@ function navbar (){
  <section id="logo">
            <div id="logobar">
             <div class="img"><img src="images/logo.png" id="deccan"></div> 
-            <div id="time"><span id="date-time"></span>.</div>
+             
            </div>
            
  </section>
@@ -43,10 +43,10 @@ function navbar (){
                             <a href="#south">South</a>
                         </li>
                         <li>
-                            <a href="/">World</a>
+                            <a href="world.html">World</a>
                         </li>
                         <li>
-                            <a href="entertainment.js">Entertainment</a>
+                            <a href="entertainment.html">Entertainment</a>
                         </li>
                         <li>
                             <a href="/">Jobs & Education</a> 
