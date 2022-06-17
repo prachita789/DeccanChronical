@@ -32,8 +32,8 @@ let append = (data, container)=>{
         let  dateHeading = document.createElement("h4");
         dateHeading.innerHTML = date[0];
 
-        let content = document.createElement("p");
-        content.innerHTML = el.content
+        // let content = document.createElement("p");
+        // content.innerHTML = el.content
 
         let discription = document.createElement("p");
         discription.innerHTML=el.description;
@@ -47,7 +47,7 @@ let append = (data, container)=>{
 
         div2.appendChild(newsHeading);
         div2.appendChild(dateHeading);
-        div2.appendChild(content);
+        // div2.appendChild(content);
         div2.appendChild(discription);
         div2.appendChild(source);
         div2.appendChild(link);
