@@ -8,7 +8,7 @@ import last from "../components/footer.js";
 document.getElementById("low").innerHTML = last();
 
 
-let url = "https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=01420e1a7bfd4618af006747c28399be";
+let url = "https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=841ebc4df4914ade8383d62fc0473be6";
 
 let container = document.getElementById("box");
 
