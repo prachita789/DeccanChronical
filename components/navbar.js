@@ -68,7 +68,7 @@ function navbar (){
                          <a href="/">More...
                              <div class="dropdown-content">
                                  <a href="business.html"><p>Business</p></a>
-                                 <p>Opinion</p>
+                                 <a href="health.html><p>Health</p></a>
                                  <p>Sunday Chronicle</p>
                                  <p>Featured</p>
                                  <p>Hyderabad Chronicle</p>
